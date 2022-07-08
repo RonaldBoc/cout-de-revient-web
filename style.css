@@ -1,0 +1,35 @@
+body{
+    background-color: #EDEDED;
+}
+
+h1{
+    font-size: 50pt;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#taux_conversion{
+    color: red;
+}
+
+.form_box{
+    display: flex;
+    width: auto;
+}
+
+
+
+.form_item{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.form_item label{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.form_item input{
+    width: 150px;
+}
